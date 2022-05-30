@@ -78,7 +78,7 @@ Now a nested list:
 
 1.  First, get these ingredients:
 
-    - carrots
+    - apples
     - celery
     - lentils
 
